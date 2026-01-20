@@ -1,4 +1,4 @@
-import javax.sound.midi.SoundbankResource
+package resources
 
 class ResourceManager {
     private val resources = mutableListOf<OutpostResource>()
